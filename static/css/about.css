@@ -97,3 +97,22 @@
     height: 700px;
   }
 }
+
+.contact-view {
+  position: absolute;
+  top: 30%;
+  left: 30px;
+  color: #4C85EC;
+  font-size: 18px;
+}
+
+.contact-view .title {
+  color: #437FED;
+  font-size: 36px;
+  margin-bottom: 50px;
+}
+
+
+.contact-view a {
+  color: #4C85EC;
+}
